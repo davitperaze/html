@@ -1,16 +1,16 @@
-This repository hosts the [HTML Standard](https://html.spec.whatwg.org/).
+ამ რეპოზიტორიაში განთავსებულია [HTML-ის სტანდარტი](https://html.spec.whatwg.org/).
 
-### Code of conduct
+### ქცევის კოდექსი
 
-We are committed to providing a friendly, safe and welcoming environment for all. Please read and respect the [WHATWG Code of Conduct](https://whatwg.org/code-of-conduct).
+ჩვენ მზად ვართ უზრუნველვყოთ მეგობრული, უსაფრთხო და ღია გარემო ყველასთვის. გთხოვთ წაიკითხოთ დაპატივი სცეთ [WHATWG-ის ქცევის კოდექსს](https://whatwg.org/code-of-conduct).
 
-### Contribution opportunities
+### წვლილის შეტანის შესაძლებლობები
 
-We appreciate all contributions, see the [guidelines for contributing](CONTRIBUTING.md) for details, including information on how to build HTML output from the `source` file so you can preview your changes locally.
+ჩვენ ვაფასებთ ყველა წვლილს. იხილეთ [წვლილის შეტანის ინსტრუქციები](CONTRIBUTING.md), მათ შორის ინფორმაცია, თუ როგორ უნდა შექმნათ HTML `source`-იდან, რომ შეძლოთ ცვლილებების ლოკალურად ნახვა.
 
-### Tests
+### ტესტები
 
-Tests are in the `html/` directory of the [web-platform-tests repository](https://github.com/web-platform-tests/wpt).
+ტესტები მოთვსებულია [ვებ პლატფორმის ტესტების რეპოზიტორიის](https://github.com/web-platform-tests/wpt) `html/` დირექტორიაში.
 
 ### Blame
 
